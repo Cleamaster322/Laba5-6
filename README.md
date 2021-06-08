@@ -1,1 +1,1 @@
-file:///C:/Users/Cleamaster322/Desktop/Laba5-6/laba5-6.html
+http://127.0.0.1:5500/laba5-6.html
